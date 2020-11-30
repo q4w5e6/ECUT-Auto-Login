@@ -1,6 +1,6 @@
 ## 东华理工大学校园网自动登录
 ---
-## 使用 cURL 命令自动登录校园网
+## 使用shell脚本自动登录校园网
 * 注：openwrt系统路由器均可用，其他暂未知，可做参考
 ## 使用方法：
 1.  [下载登录所需的sh文件](https://github.com/q4w5e6/ECUT-Auto-Login/releases/download/1.0/drcom_cron.sh)
