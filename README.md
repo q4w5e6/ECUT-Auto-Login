@@ -3,7 +3,7 @@
 ## 使用shell脚本自动登录校园网
 * 注：openwrt系统路由器均可用，其他暂未知，可做参考
 ## 使用方法：
-1.  [下载登录所需的sh文件](https://github.com/q4w5e6/ECUT-Auto-Login/releases/download/1.0/drcom_cron.sh)
+1.  [下载登录所需的shell文件](https://github.com/q4w5e6/ECUT-Auto-Login/releases/download/1.0/drcom_cron.sh)
 2.  更改下载的sh文件中需要更改的四处部分：【路由器ip】、【学号】、【运营商】、【密码】。包括【】一并更改
 3.  需修改部分的说明：
     - [ ] 关于路由器ip：
