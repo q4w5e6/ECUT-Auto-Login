@@ -1,4 +1,11 @@
 ## 东华理工大学校园网自动登录
+[![GitHub stars](https://img.shields.io/github/stars/q4w5e6/ECUT-Auto-Login?style=flat-square)](https://github.com/q4w5e6/ECUT-Auto-Login/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/q4w5e6/ECUT-Auto-Login?style=flat-square)](https://github.com/q4w5e6/ECUT-Auto-Login/network)
+[![GitHub issues](https://img.shields.io/github/issues/q4w5e6/ECUT-Auto-Login?style=flat-square)](https://github.com/q4w5e6/ECUT-Auto-Login/issues)
+[![GitHub license](https://img.shields.io/github/license/q4w5e6/ECUT-Auto-Login?style=flat-square)](https://github.com/q4w5e6/ECUT-Auto-Login/blob/main/LICENSE) 
+[![GitHub All Releases](https://img.shields.io/github/downloads/q4w5e6/ECUT-Auto-Login/total?style=flat-square)](https://github.com/q4w5e6/ECUT-Auto-Login/releases)
+[![GitHub contributors](https://img.shields.io/github/contributors/q4w5e6/ECUT-Auto-Login?style=flat-square)](https://github.com/q4w5e6/ECUT-Auto-Login/graphs/contributors)
+![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/q4w5e6/ECUT-Auto-Login?style=flat-square)
 ---
 ## 使用shell脚本自动登录校园网
 * 注：openwrt系统路由器均可用，其他暂未知，可做参考
