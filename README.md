@@ -2,7 +2,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/q4w5e6/ECUT-Auto-Login?style=flat-square)](https://github.com/q4w5e6/ECUT-Auto-Login/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/q4w5e6/ECUT-Auto-Login?style=flat-square)](https://github.com/q4w5e6/ECUT-Auto-Login/network)
 [![GitHub issues](https://img.shields.io/github/issues/q4w5e6/ECUT-Auto-Login?style=flat-square)](https://github.com/q4w5e6/ECUT-Auto-Login/issues)
-[![GitHub license](https://img.shields.io/github/license/q4w5e6/ECUT-Auto-Login?style=flat-square)](https://github.com/q4w5e6/ECUT-Auto-Login/blob/main/LICENSE) 
+[![GitHub license](https://img.shields.io/badge/license-MIT-blueviolet.svg)](https://github.com/q4w5e6/ECUT-Auto-Login/blob/main/LICENSE) 
 [![GitHub All Releases](https://img.shields.io/github/downloads/q4w5e6/ECUT-Auto-Login/total?style=flat-square)](https://github.com/q4w5e6/ECUT-Auto-Login/releases)
 [![GitHub contributors](https://img.shields.io/github/contributors/q4w5e6/ECUT-Auto-Login?style=flat-square)](https://github.com/q4w5e6/ECUT-Auto-Login/graphs/contributors)
 [![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/q4w5e6/ECUT-Auto-Login?style=flat-square)](https://github.com/q4w5e6/ECUT-Auto-Login/releases)
