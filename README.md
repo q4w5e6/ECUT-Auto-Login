@@ -6,7 +6,7 @@
 3.  给文件增加执行权限:
 <br>cd /etc/
 <br>chmod +x drcom_cron.sh
-* 或：
+# 或：
 <br>winscp中右键文件-属性，将三个x全勾上，确定。
 4.  登录路由器管理页面-系统-计划任务，加上一行：
 <br>*/5 * * * * /etc/mysh/drcom_cron.sh<br>
