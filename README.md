@@ -12,7 +12,7 @@
        
        手机：WiFi的网关（有的叫路由器）
     - [ ] 关于学号和密码：登录校园网的学号和密码
-    - [ ] 关于运营商：电信是telecom，移动是cmcc，联通是unicom，校园网则无
+    - [ ] 关于运营商：电信是telecom，移动是cmcc，联通是unicom，校园网则无(直接把"%40【运营商】"全删了)
      
 4.  通过winSCP的SCP文件协议或其他ssh方法将drcom_cron.sh上传到/etc/文件夹内
 5.  给drcom_cron.sh增加execute权限:
