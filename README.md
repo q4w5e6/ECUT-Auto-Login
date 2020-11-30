@@ -15,12 +15,12 @@
 4.  通过winSCP的SCP文件协议或其他ssh方法将文件上传到/etc/文件夹内
 5.  给文件增加执行权限:
 
-      代码:
+      代码方式:
 
         cd /etc/
         chmod +x drcom_cron.sh
    
-       winscp操作
+       winscp操作方式：
   
         winscp中右键文件-属性，将三个x全勾上，确定。
 
