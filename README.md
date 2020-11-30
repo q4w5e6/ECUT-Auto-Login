@@ -4,7 +4,7 @@
 1.  下载登录所需的sh文件。
 2.  通过winSCP的SCP文件协议或其他ssh方法将文件上传到/etc/
 3.  给文件增加执行权限:
-*  cd /etc/
+**/  cd /etc/
 * chmod +x drcom_cron.sh
 * 或：
 * winscp中右键文件-属性，将三个x全勾上，确定。
