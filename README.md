@@ -1,6 +1,7 @@
 ## 东华理工大学校园网自动登录
+---
 ## 使用 cURL 命令自动登录校园网
-* openwrt系统路由器均可用，其他暂未知，可做参考。
+* 注：openwrt系统路由器均可用，其他暂未知，可做参考。
 ## 使用方法：
 1.  下载登录所需的sh文件。
 2.  更改下载的sh文件中需要更改的四处部分：【路由器ip】、【学号】、【运营商】、【密码】。包括【】一并更改！
@@ -27,10 +28,10 @@
 
 6.  登录路由器管理页面-系统-计划任务
 
-    加上一行：
+    加上一行并提交：
 
         */5 * * * * /etc/mysh/drcom_cron.sh     
      (每隔五分钟自动执行登录检测)
 
 ## 参考
-[甲烃气瓶](https://jakting.com/archives/drcom-autologin-padavan-tgbot.html)
+>[甲烃气瓶](https://jakting.com/archives/drcom-autologin-padavan-tgbot.html)
