@@ -18,6 +18,5 @@
 
     加上一行：
 
-        */5 * * * * /etc/mysh/drcom_cron.sh
-        
-<br>(每隔五分钟自动执行登录检测)
+        */5 * * * * /etc/mysh/drcom_cron.sh     
+     <br>(每隔五分钟自动执行登录检测)
