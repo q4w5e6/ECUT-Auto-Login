@@ -8,6 +8,8 @@
 [![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/q4w5e6/ECUT-Auto-Login?style=flat-square)](https://github.com/q4w5e6/ECUT-Auto-Login/releases)
 [![](https://tokei.rs/b1/github/q4w5e6/ECUT-Auto-Login?category=code)](#)
 ---
+##
+![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=nzw9314&show_icons=true&theme=merko)
 ## 使用shell脚本自动登录校园网
 * 注：openwrt系统路由器均可用，其他暂未知，可做参考
 ## 使用方法：
