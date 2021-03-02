@@ -1,3 +1,6 @@
+###感谢[Heisenberglue](https://github.com/q4w5e6/ECUT-Auto-Login/issues/2)提供的方案，现在直接PPPoE拨号方式，用户名栏填 学号@运营商后缀 , 密码栏填校园网的密码就可以实现拨号
+
+
 ## 东华理工大学校园网自动登录
 [![GitHub stars](https://img.shields.io/github/stars/q4w5e6/ECUT-Auto-Login?style=flat-square)](https://github.com/q4w5e6/ECUT-Auto-Login/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/q4w5e6/ECUT-Auto-Login?style=flat-square)](https://github.com/q4w5e6/ECUT-Auto-Login/network)
@@ -40,6 +43,7 @@
 
         */3 * * * * /etc/mysh/drcom_cron.sh     
      (每隔三分钟自动执行登录检测)
+    
 
 ## 参考
 >[甲烃气瓶](https://jakting.com/archives/drcom-autologin-padavan-tgbot.html)
