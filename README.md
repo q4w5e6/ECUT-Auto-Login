@@ -1,4 +1,4 @@
-## 感谢[Heisenberglue](https://github.com/q4w5e6/ECUT-Auto-Login/issues/2)提供的方案，现在直接PPPoE拨号方式，用户名栏填 学号@运营商后缀 , 密码栏填校园网的密码就可以实现拨号
+## 感谢[Heisenberglue](https://github.com/q4w5e6/ECUT-Auto-Login/issues/2)提供的方案，现在直接PPPoE拨号方式，用户名栏填 学号@运营商后缀（q4w5e6/ECUT-Auto-Login） , 密码栏填校园网的密码就可以实现拨号
 
 
 
